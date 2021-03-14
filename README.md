@@ -4,6 +4,6 @@ Conteúdo:
 
 Script com comandos para criar resource group, virtual network e subnet no azure.
 
-Créditos - Jádson Alves - jadsonalves.com.br
+Créditos - Jádson Alves - https://jadsonalves.com.br/
 
 
